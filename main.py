@@ -12,8 +12,8 @@ with open('template.html', 'r') as template:
     html_string = template.read()
 
 #Set the Email and password ( VERY IMPORTANT!!!)
-gmail.username = 'umair.boss2003@gmail.com'
-gmail.password = 'xlca dztn sxwm xnzv'
+gmail.username = ''
+gmail.password = ''
 
 for reciever in list1:
     gmail.send(
