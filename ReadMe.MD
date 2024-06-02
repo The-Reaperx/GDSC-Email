@@ -29,7 +29,7 @@ The message template is customizable, making it suitable for tasks such as filli
 
 #### Requirement
 
-```http
+```
   Set your email App password : https://myaccount.google.com/u/1/apppasswords
   
   *Only works if the account has 2FA enabled
